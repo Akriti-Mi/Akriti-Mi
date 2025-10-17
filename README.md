@@ -19,8 +19,12 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti-mi&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/akriti-mi)|[![akriti-mi's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=akriti-mi&theme=midnight-purple&hide_border=true)](https://github.com/akriti-mi)
-|[![akriti-mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akriti-mi&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/akriti-mi)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/akriti-mi/count.svg)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti-mi&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/akriti-mi)
+|[![akriti-mi's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=akriti-mi&theme=midnight-purple&hide_border=true)](https://github.com/akriti-mi)
+
+|[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akriti-mi&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/akriti-mi)
+|<h1 >Visits: </h1> !![Visitor Count](https://profile-counter.glitch.me/akriti-mi/count.svg)
+
 
 </p>
 
